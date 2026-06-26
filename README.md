@@ -45,7 +45,7 @@ ls -lh ~/torch_demo/libtorch
 ```
 
 ### Step 3: Native C++ Bridge Code
-Create a file named `search_engine.cpp` inside your `~/torch_demo` folder and paste the following source code into it:
+Create a file named `search_engine.cpp` inside your `~/torch_demo` folder and paste the following source code into it. This file is simulation, real one in folder "with model":
 
 ```cpp
 #include <torch/torch.h>
