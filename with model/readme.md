@@ -6,7 +6,7 @@ This guide installs all required dependencies for running the Java + C++ embeddi
 
 # 1. Install system packages
 
-Update repositories and install the required development tools:
+Update repositories and install the required development tools (#1 is optional if your machine doesn't have them):
 
 ```bash
 sudo apt update
